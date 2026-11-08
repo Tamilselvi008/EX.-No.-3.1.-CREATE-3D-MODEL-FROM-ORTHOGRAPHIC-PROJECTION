@@ -1,5 +1,5 @@
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
+## DATE:14-10-2026
 
 ## AIM:
 To create a 3D model from given orthographic projection.
@@ -40,7 +40,7 @@ To create a 3D model from given orthographic projection.
 10. Click the line segments inside the U-shaped opening that should be removed. Keep the outer boundary and the inner edges that form the arms and crosspiece.
 11. <img width="1920" height="1011" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/a3218771-9b1e-4e78-974c-3c7ed03df62a" />
   
-14. Click **Finish Sketch**.
+12. Click **Finish Sketch**.
 <img width="1920" height="1004" alt="Screenshot (299)" src="https://github.com/user-attachments/assets/01c49810-8b6e-479b-82b0-b405d49e0a11" />
 
 ## 3. Extrude the bracket body
@@ -63,12 +63,12 @@ To create a 3D model from given orthographic projection.
 5. Set the circle’s radius to **9 mm**. If Fusion requests a diameter, enter **18 mm**.
 6. <img width="1920" height="1021" alt="Screenshot (302)" src="https://github.com/user-attachments/assets/1be472a2-a314-487e-ba9d-6f7930d77127" />
 
-8. Click **Finish Sketch**.
-9. Select **Solid > Create > Extrude**.
-10. Select the circular profile.
-11. Enter **32 mm** for the extrusion distance, directed outward from the bracket.
-12. Set **Operation** to **Join** so the shaft attaches to the crosspiece.
-13. Click **OK**.
+7. Click **Finish Sketch**.
+8. Select **Solid > Create > Extrude**.
+9. Select the circular profile.
+10. Enter **32 mm** for the extrusion distance, directed outward from the bracket.
+11. Set **Operation** to **Join** so the shaft attaches to the crosspiece.
+12. Click **OK**.
 <img width="1920" height="1029" alt="Screenshot (303)" src="https://github.com/user-attachments/assets/c0ad12e5-1d3e-4fc2-9655-e0f16aaf9922" />
 
 ## 5. Cut the hole through the upper arms
@@ -80,12 +80,12 @@ To create a 3D model from given orthographic projection.
 5. Set the hole radius to **8 mm**. If Fusion requests a diameter, enter **16 mm**.
 <img width="1920" height="1022" alt="Screenshot (304)" src="https://github.com/user-attachments/assets/a833e090-fbaf-47f1-a385-6b74c4e6e4f3" />
 
-7. Click **Finish Sketch**.
-8. Select **Solid > Create > Extrude**.
-9. Select the circular profile.
-10. Set **Operation** to **Cut**.
-11. Set the extent to **Through All** if the cut should pass completely through the selected arm.
-12. Check the preview to make sure the cut goes through the arm, then click **OK**.
+6. Click **Finish Sketch**.
+7. Select **Solid > Create > Extrude**.
+8. Select the circular profile.
+9. Set **Operation** to **Cut**.
+10. Set the extent to **Through All** if the cut should pass completely through the selected arm.
+11. Check the preview to make sure the cut goes through the arm, then click **OK**.
 <img width="1920" height="1015" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/87e13f22-d273-4da3-975c-c99e2e90d1e8" />
 
 ## 7. Fillet the ends of both arms
@@ -110,7 +110,7 @@ To create a 3D model from given orthographic projection.
    - Shaft projection: **32 mm**
    - Arm-hole radius: **8 mm**
    - Rounded arm ends: **R8**
-4. Save the design.
+3. Save the design.
 <img width="1920" height="1015" alt="Screenshot (309)" src="https://github.com/user-attachments/assets/0875ffbf-1dd7-440a-80d2-5450ad7e5c6f" />
 
 
@@ -121,12 +121,12 @@ To create a 3D model from given orthographic projection.
 <img width="1920" height="1038" alt="Screenshot (310)" src="https://github.com/user-attachments/assets/e3252cd6-5e26-4094-ac90-38da6d929df9" />
 
 
-4. Set the drawing standard, units, and sheet size.
-5. Place a base view that clearly shows the U-shaped bracket profile.
-6. Add projected top and side views.
-7. Add an isometric view.
-9. Fill in the title block with the drawing name, scale, date, and other required details.
-10. Save the drawing.
+3. Set the drawing standard, units, and sheet size.
+4. Place a base view that clearly shows the U-shaped bracket profile.
+5. Add projected top and side views.
+6. Add an isometric view.
+7. Fill in the title block with the drawing name, scale, date, and other required details.
+8. Save the drawing.
 
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
