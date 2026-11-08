@@ -111,7 +111,8 @@ To create a 3D model from given orthographic projection.
    - Arm-hole radius: **8 mm**
    - Rounded arm ends: **R8**
 4. Save the design.
-<img width="1920" height="1013" alt="Screenshot (296)" src="https://github.com/user-attachments/assets/0608e5ee-f246-4943-9673-f118c9af8974" />
+<img width="1920" height="1015" alt="Screenshot (309)" src="https://github.com/user-attachments/assets/0875ffbf-1dd7-440a-80d2-5450ad7e5c6f" />
+
 
 ## 9. Create the drawing
 
