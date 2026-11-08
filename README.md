@@ -118,7 +118,8 @@ To create a 3D model from given orthographic projection.
 
 1. Save the model.
 2. Choose **Design > Drawing > From Design**.
-3. <img width="1920" height="1013" alt="Screenshot (308)" src="https://github.com/user-attachments/assets/b53f1465-4a6c-44c3-8186-bc9ad1575cbe" />
+<img width="1920" height="1038" alt="Screenshot (310)" src="https://github.com/user-attachments/assets/e3252cd6-5e26-4094-ac90-38da6d929df9" />
+
 
 4. Set the drawing standard, units, and sheet size.
 5. Place a base view that clearly shows the U-shaped bracket profile.
